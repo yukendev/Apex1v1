@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3DEE0C5F-211F-4E9B-873F-C667F72375FC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A642E60-3C65-48F9-A37D-81E494638C10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1v1ForApex/Controller/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5C41483-6707-4E77-88C7-8B973F6283BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1v1ForApex/Controller/UserInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1v1ForApex/Controller/My1v1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D - 839ba239c947c04f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_v1ForApex.My1v1ViewController.__deallocating_deinit"
+                  moduleName = "1v1ForApex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezukayuken/SwiftPractice/1v1ForApex/1v1ForApex/Controller/My1v1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D - d9c16ef7430e42d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_v1ForApex.My1v1ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _v1ForApex.My1v1ViewController"
+                  moduleName = "1v1ForApex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezukayuken/SwiftPractice/1v1ForApex/1v1ForApex/Controller/My1v1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D - e6d8c957ce1a1801"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_v1ForApex.My1v1ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _v1ForApex.My1v1ViewController"
+                  moduleName = "1v1ForApex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezukayuken/SwiftPractice/1v1ForApex/1v1ForApex/Controller/My1v1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "581">
+               </Location>
+               <Location
+                  uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D - fc4e3c828e7ac609"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_v1ForApex.My1v1ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_v1ForApex.My1v1ViewController&gt;"
+                  moduleName = "1v1ForApex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezukayuken/SwiftPractice/1v1ForApex/1v1ForApex/Controller/My1v1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7077D9C1-D462-4D92-8D21-A483E2C8EF2D - b63885575ce1130a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_v1ForApex.My1v1ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_v1ForApex.My1v1ViewController&gt;"
+                  moduleName = "1v1ForApex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezukayuken/SwiftPractice/1v1ForApex/1v1ForApex/Controller/My1v1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "522">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

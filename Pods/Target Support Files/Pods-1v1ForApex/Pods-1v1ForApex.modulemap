@@ -1,0 +1,6 @@
+framework module Pods_1v1ForApex {
+  umbrella header "Pods-1v1ForApex-umbrella.h"
+
+  export *
+  module * { export * }
+}
